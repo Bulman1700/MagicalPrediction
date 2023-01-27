@@ -1,6 +1,6 @@
 #MagicalPrediction
 
-This is a programming assignment that I enjoyed doing that uses the Trie data structure to predict the next letter of an unfinished word. Letters have a integer frequency associated with them. Letters with the highest frequency are chosen to be the predicted next letter.
+This is a programming assignment that I enjoyed doing that uses the Trie data structure to predict the next letter of an unfinished word. Letters have an integer frequency associated with them. Letters with the highest frequency are chosen to be the predicted next letter.
 
 This program writes to an out.txt file with the required output.
 
