@@ -8,7 +8,7 @@
 
 typedef struct TrieNode
 {
-  int frequency;                            // Stores node frequency
+  int frequency;                            // stores node frequency
   bool is_word;                             // flags the last node in a string
   struct TrieNode *children[ALPHA_SIZE];
 } TrieNode;
