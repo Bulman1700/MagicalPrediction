@@ -204,7 +204,7 @@ TrieNode *forest_fire(TrieNode *root)
 
 int main(void)
 {
-  TrieNode *root = commands("in1.txt");
+  TrieNode *root = commands("in.txt");
   printTrie(root);
   root = forest_fire(root);
   return 0;
